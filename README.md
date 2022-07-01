@@ -26,11 +26,12 @@ Perform the following steps:
   Using the following circuit diagrams, connect your Arduino Uno or the FTDI module with your ESP32 Cam Module.
   
 <div align='center'>
-  <img src = 'Misc/esp32 to arduino circuit.png' height="400px">
+  <img src = 'Misc/esp32 to arduino circuit.png' height="350px">
+  <h6> Arduino to ESP32 CAM Module Circuit <h6>
 </div>
-
+<tr>
 <div align='center'>
-  <img src = 'Misc/esp32 to FTDI circuit.png' height="400px">
+  <img src = 'Misc/esp32 to FTDI circuit.png' height="350px">
 </div>
 
   Within the code, change the ssid and password with the username and password of the wifi you are connected on.
