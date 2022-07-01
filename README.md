@@ -60,19 +60,14 @@ Perform the following steps:
 ### Result
     
     
-<table style="border:none;">
+<table style="border: none">
 <tr style="border:none;">
 <td valign="top" style="border:none;"><img src="Misc/result1.png" height="250px"/></td>
 <td valign="top" style="border:none;"><img src="Misc/result2.png" height="250px"/></td>
 </tr>
 </table>
-    
-<style>
-tr, td {
-   border: none!important;
-}
-</style>
 
+    
 <div align='center'>
   <div style="display: flex;">
     <div>
