@@ -60,7 +60,7 @@ Perform the following steps:
 ### Result
     
     
-<table border="none">
+<table border="0">
 <tr>
 <td valign="top"><img src="Misc/result1.png" height="250px"/></td>
 <td valign="top" ><img src="Misc/result2.png" height="250px"/></td>
