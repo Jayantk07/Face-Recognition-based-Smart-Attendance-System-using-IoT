@@ -59,9 +59,13 @@ Perform the following steps:
 ### Python file
 
   Download the required packages.
+    
   Open the Attendance.py file and update the camera url with the one you got above.
+    
   Upload your image in the img_fol folder with your name.
+    
   Run the python file and the name will start displaying below in the terminal whenever your face is detected by the camera, hence marking the Attendance in the CSV file as well.
+    
   Press "q" to stop and exit from the camera.
   
   <br>
