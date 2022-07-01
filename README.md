@@ -63,15 +63,15 @@ Perform the following steps:
 <table border="0">
 <tr border="0">
 <td valign="top" border="0">
-  <div align='center'>
+  <div align='center' border='0'>
     <img src="Misc/result1.png" height="250px"/>
-    <h6 align='center'> Result 1 </h6>
+    <h6> Result 1 </h6>
   </div>
 </td>
 <td valign="top" border="0">
   <div align='center'>
     <img src="Misc/result1.png" height="250px"/>
-    <h6 align='center'> Result 1 </h6>
+    <h6> Result 1 </h6>
   </div>
 </td>
 
