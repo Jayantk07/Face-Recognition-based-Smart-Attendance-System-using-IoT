@@ -64,14 +64,14 @@ Perform the following steps:
 <tr border="0">
   <td valign="top" border="0">
     <div align='center'>
-      <img src="Misc/result1.png" height="300px"/>
+      <img src="Misc/result1.png" height="275px"/>
       <h6> Result 1 </h6>
     </div>
   </td>
 
   <td valign="top" border="0">
     <div align='center'>
-      <img src="Misc/result3.png" height="300px"/>
+      <img src="Misc/result3.png" height="275px"/>
       <h6> Result 2 </h6>
     </div>
   </td>
@@ -80,7 +80,7 @@ Perform the following steps:
 
 
 <div align='center'>
-  <img src = 'Misc/result2.png' height="300px"/>
+  <img src = 'Misc/result2.png' height="275px"/>
   <h6> Result 3 </h6>
 </div>
 
