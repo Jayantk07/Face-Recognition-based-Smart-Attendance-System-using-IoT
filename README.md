@@ -83,4 +83,11 @@ Perform the following steps:
   <h6> Result 3 </h6>
 </div>
 
-#### Attendance
+### Attendance
+    
+ <div align='center'>
+  <img src = 'Misc/attendance.png' height="300px"/>
+  <h6> Attendance stored in CSV </h6>
+ </div>
+    
+    
