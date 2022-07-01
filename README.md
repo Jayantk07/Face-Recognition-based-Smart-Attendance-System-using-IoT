@@ -37,7 +37,8 @@ Perform the following steps:
   <img src = 'Misc/esp32 to FTDI circuit.png' height="350px">
   <h6> FTDI to ESP32 CAM Module Circuit <h6>
 </div>
-
+<br>
+    
   Within the code, change the ssid and password with the username and password of the wifi you are connected on.
   Save the code and upload it. 
 
@@ -48,6 +49,13 @@ Perform the following steps:
   The Cam Module is initialised and ready to use with the URL provided in the Serial monitor.
   
   <br>
+    
+  <div align='center'>
+    <img src = 'Misc/arduino connection.png' height="300px"/>
+    <h6> This is how the connection looks like with Arduino Uno </h6>
+  </div>  
+    
+    
 ### Python file
 
   Download the required packages.
