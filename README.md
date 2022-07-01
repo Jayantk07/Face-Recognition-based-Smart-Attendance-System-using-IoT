@@ -62,14 +62,16 @@ Perform the following steps:
     
 <table border="0">
 <tr border="0">
-<td  border="0"><img src="Misc/result1.png" height="250px"/></td>
-<td  border="0"><img src="Misc/result2.png" height="250px"/></td>
+<td valign="top" border="0"><img src="Misc/result1.png" height="250px"/>
+  <h6> Result 1 </h6>
+  </td>
+<td valign="top" border="0"><img src="Misc/result2.png" height="250px"/>
+  <h6> Result 1 </h6>
+  </td>
 </tr>
 </table>
     
-    valign="top"
-
-    
+        
 <div align='center'>
   <div style="display: flex;">
     <div>
