@@ -37,6 +37,7 @@ Perform the following steps:
 
   The Cam Module is initialised and ready to use with the URL provided in the Serial monitor.
   
+  
 ### Python file
 
   Open the Attendance.py file and update the camera url with the one you got above.
