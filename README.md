@@ -62,11 +62,11 @@ Perform the following steps:
 <div align='center'>
   <div style="display: flex;">
     <div>
-      <img src = 'Misc/result1.png' height="250px"  style="vertical-align: top" />
+      <img src = 'Misc/result1.png' height="100px"  style="vertical-align: top" />
       <h6> Result 1 </h6>
     </div>
 <div>
-<img src = 'Misc/result2.png' height="250px" />
+<img src = 'Misc/result2.png' height="100px" />
 <h6> Result 2 </h6>
     </div>
   </div>
