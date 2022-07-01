@@ -47,7 +47,7 @@ Perform the following steps:
 
   The Cam Module is initialised and ready to use with the URL provided in the Serial monitor.
   
-  
+  <br>
 ### Python file
 
   Download the required packages.
@@ -56,7 +56,7 @@ Perform the following steps:
   Run the python file and the name will start displaying below in the terminal whenever your face is detected by the camera, hence marking the Attendance in the CSV file as well.
   Press "q" to stop and exit from the camera.
   
-  
+  <br>
 ### Result
     
     
@@ -78,9 +78,9 @@ Perform the following steps:
 </tr>
 </table>
 
-
 <div align='center'>
   <img src = 'Misc/result2.png' height="275px"/>
   <h6> Result 3 </h6>
 </div>
 
+#### Attendance
