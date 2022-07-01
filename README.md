@@ -69,6 +69,7 @@ Perform the following steps:
   Press "q" to stop and exit from the camera.
   
   <br>
+    
 ### Result
     
     
