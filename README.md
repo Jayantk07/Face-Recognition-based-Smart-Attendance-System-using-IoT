@@ -3,7 +3,7 @@ Face Recognition using ESP-32 Camera Module and OpenCV
 
 Clone the project to your localhost and extract the files.
 
-Download and install the latest version of Arduino Software from https://www.arduino.cc/en/software
+Download and install the latest version of Arduino Software from [here](https://www.arduino.cc/en/software)
 
 
 ### Arduino Setup
