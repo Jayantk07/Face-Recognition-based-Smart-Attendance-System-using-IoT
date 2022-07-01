@@ -24,10 +24,14 @@ Perform the following steps:
 
   Connect the Arduino Uno board or the FTDI Module to your PC.
   Using the following circuit diagrams, connect your Arduino Uno or the FTDI module with your ESP32 Cam Module.
-  <div>
-  <img>
-  </img>
-  <div>
+  
+<div align='center'>
+  <img src = 'Misc/esp32 to arduino circuit.png' height="400px">
+</div>
+
+<div align='center'>
+  <img src = 'Misc/esp32 to FTDI circuit.png' height="400px">
+</div>
 
   Within the code, change the ssid and password with the username and password of the wifi you are connected on.
   Save the code and upload it. 
@@ -41,6 +45,7 @@ Perform the following steps:
   
 ### Python file
 
+  Download the required packages.
   Open the Attendance.py file and update the camera url with the one you got above.
   Upload your image in the img_fol folder with your name.
   Run the python file and the name will start displaying below in the terminal whenever your face is detected by the camera, hence marking the Attendance in the CSV file as well.
@@ -48,4 +53,16 @@ Perform the following steps:
   
   
 ### Result
+
+<div align='center'>
+  <img src = 'Misc/result1.png' height="400px">
+</div>
+
+<div align='center'>
+  <img src = 'Misc/result2.png' height="400px">
+</div>
+
+<div align='center'>
+  <img src = 'Misc/result3.png' height="400px">
+</div>
 
