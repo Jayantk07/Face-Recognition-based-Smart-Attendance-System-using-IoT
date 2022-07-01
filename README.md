@@ -61,11 +61,17 @@ Perform the following steps:
     
     
 <table style="border:none;">
-  <tr style="border:none;">
-    <td valign="top" style="border:none;"><img src="Misc/result1.png" height="250px"/></td>
-    <td valign="top" style="border:none;"><img src="Misc/result2.png" height="250px"/></td>
-  </tr>
+<tr style="border:none;">
+<td valign="top" style="border:none;"><img src="Misc/result1.png" height="250px"/></td>
+<td valign="top" style="border:none;"><img src="Misc/result2.png" height="250px"/></td>
+</tr>
 </table>
+
+<style>
+td, th {
+border: none!important;
+}
+</style>
 
 <div align='center'>
   <div style="display: flex;">
