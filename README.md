@@ -29,7 +29,7 @@ Perform the following steps:
   <img src = 'Misc/esp32 to arduino circuit.png' height="350px">
   <h6> Arduino to ESP32 CAM Module Circuit <h6>
 </div>
-<tr>
+<hr>
 <div align='center'>
   <img src = 'Misc/esp32 to FTDI circuit.png' height="350px">
 </div>
