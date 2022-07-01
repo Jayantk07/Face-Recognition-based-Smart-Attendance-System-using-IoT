@@ -51,7 +51,7 @@ Perform the following steps:
   <br>
     
   <div align='center'>
-    <img src = 'Misc/arduino connection.png' height="300px"/>
+    <img src = 'Misc/arduino connection.png' height="350px"/>
     <h6> This is how the connection looks like with Arduino Uno </h6>
   </div>  
     
