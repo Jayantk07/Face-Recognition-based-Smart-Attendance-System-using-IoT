@@ -61,9 +61,9 @@ Perform the following steps:
     
     
 <table border="0">
-<tr>
-<td valign="top"><img src="Misc/result1.png" height="250px"/></td>
-<td valign="top" ><img src="Misc/result2.png" height="250px"/></td>
+<tr border="0">
+<td valign="top" border="0"><img src="Misc/result1.png" height="250px"/></td>
+<td valign="top" border="0"><img src="Misc/result2.png" height="250px"/></td>
 </tr>
 </table>
 
