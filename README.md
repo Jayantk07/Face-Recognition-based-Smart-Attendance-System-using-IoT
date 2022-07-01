@@ -58,16 +58,24 @@ Perform the following steps:
   
   
 ### Result
+    
+    
+<table>
+  <tr>
+    <td valign="top"><img src="Misc/result1.png"/></td>
+    <td valign="top"><img src="Misc/result2.png"/></td>
+  </tr>
+</table>
 
 <div align='center'>
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex;">
     <div>
       <img src = 'Misc/result1.png' height="250px" />
-<!--       <h6> Result 1 </h6>     -->
+      <h6> Result 1 </h6>    
     </div>
     <div>
       <img src = 'Misc/result2.png' height="250px" />
-<!--       <h6> Result 2 </h6> -->
+      <h6> Result 2 </h6>
     </div>
   </div>
 </div>
