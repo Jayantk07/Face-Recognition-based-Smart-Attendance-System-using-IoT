@@ -19,6 +19,7 @@ Perform the following steps:
   5. Flash Frequency - 80MHz
   6. Flash Mode - QIO
   7. Partition Scheme - Huge App 3mb
+  
   Leave rest all the same.
 
   Connect the Arduino Uno board or the FTDI Module to your PC.
