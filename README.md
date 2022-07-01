@@ -66,10 +66,10 @@ Perform the following steps:
 <td valign="top" style="border:none;"><img src="Misc/result2.png" height="250px"/></td>
 </tr>
 </table>
-
+    
 <style>
-td, th {
-border: none!important;
+tr, td {
+   border: none!important;
 }
 </style>
 
